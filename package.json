@@ -3,5 +3,25 @@
     "express": "^4.18.2",
     "nodemon": "^2.0.22",
     "uuid": "^9.0.0"
-  }
+  },
+  "name": "better-mega",
+  "version": "1.0.0",
+  "main": "server/host.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon server/host.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan-Rudd/Better-MEGA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan-Rudd/Better-MEGA/issues"
+  },
+  "homepage": "https://github.com/Ryan-Rudd/Better-MEGA#readme",
+  "description": ""
 }
